@@ -7,10 +7,10 @@ if (name === "Susan") {
     console.log("Expected the name to be Susan")
 }
 
-if (name === "74") {
+if (name === "70") {
     console.log("The Name is correct")
   } else {
-    console.log("Expected the height to be 74")
+    console.log("Expected the height to be 70")
 }
 
 // Don't worry about this
